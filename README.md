@@ -1,6 +1,6 @@
 # React COVID Tracker
 
-[Live Demo]
+[Live Demo](https://covidrecords.netlify.app)
 
 ## Check out my `more work`:point_down:
 
