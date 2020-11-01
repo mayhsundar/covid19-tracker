@@ -70,7 +70,7 @@ const App = () => {
         setMapZoom(4);
       });
   };
-
+  document.title = "Covid-19 tracker";
   return (
     <div className="app">
       <div className="app__left">
